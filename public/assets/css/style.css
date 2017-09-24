@@ -1,0 +1,54 @@
+.container {
+/*	background-color: rgba(0,0,0,.2);*/
+}
+
+body {
+	background-image: url("https://i.pinimg.com/originals/3c/12/8b/3c128bcd9e7c68958b457984b9891f70.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: left center;
+	background-color: #c2e7fa;
+}
+
+h1 {
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	margin-bottom: 20px;
+	font-size: 10em;
+	color: #ff4d4d;
+}
+
+#burgerInput {
+	width: 50%;
+}
+
+.menu {
+	margin-bottom: 20px;
+	background-color: rgba(0,0,0,0.1);
+}
+
+li {
+	text-align: center;
+	list-style: none;
+	color: white;
+	font-size: 1.5em;
+	font-family: 'Josefin Slab', serif;
+	font-weight: bold;
+	margin-bottom: 1em;
+	font-weight: 900;
+}
+
+.burgerDiv {
+	background-color: rgba(0,0,0,.2);
+	width: 200px;
+}
+
+h2 {
+	font-family: 'Lobster', cursive;
+	font-size: 3em;
+
+}
+
+#addBurger {
+	margin-bottom: 10px;
+}
